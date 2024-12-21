@@ -1,59 +1,56 @@
 ## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+Smart Skin detection system using machine learning
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+Skin detection is essential for applications in computer vision, human-computer
+interaction, and medical diagnostics. This paper presents a smart skin detection system
+leveraging machine learning (ML) to improve accuracy across diverse conditions, overcoming
+limitations of traditional methods that struggle with variations in skin tone and illumination.
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+The current skin detection system can be further improved through several advancements that
+will increase its accuracy, adaptability, and efficiency in diverse real-world scenarios. These
+future enhancements aim to address current limitations, such as handling diverse skin tones,
+background complexity, real-time performance, and adaptability to dynamic environments.
 
 ## Requirements
-<!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
-
+Skin Tone Detection: Accurately identify and classify various skin tones.
+Real-time Analysis: Provide immediate results through live image processing.
+Environment Adaptation: Function reliably under different lighting conditions.
+Camera Integration: Support integration with various camera hardware.
+Mobile and Web App Support: Accessible via smartphones and web applications.
+Data Privacy: Ensure secure handling and processing of user data.
+Reporting and Analytics: Generate detailed reports on skin type, health, or conditions.
+Multi-language Support: Provide accessibility in different languages.
+Custom Recommendations: Offer skincare or dermatological advice based on analysis.
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
-
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
-
+![image](https://github.com/user-attachments/assets/cb2267a9-13fe-427a-9c41-995dc06fdde6)
 
 ## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
+
 #### Output1 - Name of the output
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+![image](https://github.com/user-attachments/assets/7543e161-9ff8-4a4d-8d5f-76175483c256)
 
 #### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+![image](https://github.com/user-attachments/assets/5706f7cb-2c0b-4f74-857c-83f816d40084)
 
-Detection Accuracy: 96.7%
+Detection Accuracy: 90.8%
 Note: These metrics can be customized based on your actual performance evaluations.
 
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
+
 The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
 
 This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
-
-
-
+Author Name: Kim, D., & Yoon, M.
+Year of Publish: 2020
+Title: Deep learning for skin detection in images and videos
+Journal: Computer Vision and Image Understanding
+Volume: 193
+Pages: 1-12
 
